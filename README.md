@@ -6,4 +6,4 @@ Waktu Patah (y): [40, 30, 25, 40, 18, 20, 22, 15]
 
 Kode ini menghasilkan dan memplot kurva interpolasi untuk kedua metode pada rentang tegangan dari 5 hingga 40, yang divisualisasikan dalam bentuk dua subplot. Hasil plot menunjukkan bagaimana masing-masing metode dapat merepresentasikan data yang diberikan dan membentuk kurva yang melewati semua titik data. 
 
-Apanila ingin mengubah nilai data points, silahkan masukan nilai ke dalam array data
+Apabila ingin mengubah nilai data points, silahkan masukan nilai ke dalam array data
